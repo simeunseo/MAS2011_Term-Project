@@ -14,6 +14,7 @@ run in the terminal by a commend like :
  $ python chroma_key.py input_video.mp4  background.png output_video.mp4
 ```
 #### 3. Pick color to remove
+![image](https://user-images.githubusercontent.com/55528304/204782194-4e5c1121-95c4-48c2-ad26-db51bdf1b703.png)
 You can see three window, 'panel_threshold', 'input_video' and 'result'. On the 'input_video' window, left-click the background part you want to remove.
 
 #### 4. Adjust the threshold
