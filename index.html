@@ -1,0 +1,26 @@
+<h1>MAS2011-Term-Project</h1>
+Sogang Univ. Introduction to Visual Media Programming Term Project 1 - Chroma key
+
+<h3>About Project</h3>
+We implemented digital matting also known as Chroma Keying technique, via color selection and masking. You can erase certain color parts of your video and add a new background.
+
+<h3>How to Use</h3>
+<h5>1. Prepare input video and background image</h5>
+It will remove the background from your video and insert a new background. So The background in your video should have a even color and it must be a distinct color from the object.
+
+<h5>2. Run program</h5>
+run in the terminal by a commend like :
+<q>
+ $ python chroma_key.py input_video.mp4  background.png output_video.mp4
+</q>
+
+<h5>3. Pick color to remove</h5>
+You can see three window, 'panel_threshold', 'input_video' and 'result'. On the 'input_video' window, left-click the background part you want to remove.
+
+<h5>4. Adjust the threshold</h5>
+In the 'panel_threshold' window, you can adjust the threshold that decides upper bound and lower bound of the range of color that you want to remove based on the color you just chose.
+Find the right color and threshold that erases the background well.
+
+<h3>Project Team</h3>
+Eunseo Sim, Yunji Choi
+
