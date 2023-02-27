@@ -1,4 +1,4 @@
-# MAS2011-Term-Project
+# MAS2011_Term-Project
 Sogang Univ. Introduction to Visual Media Programming Term Project 1 - Chroma key
 
 ## About Project
