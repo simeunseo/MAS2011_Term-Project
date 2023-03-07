@@ -1,4 +1,5 @@
 # MAS2011_VMP-Term-Project
+서강대학교 Introduction To Visual Media Programming(2022-2) Term Project 입니다.
 Sogang Univ. Introduction to Visual Media Programming Term Project 1 - Chroma key
 
 ## About Project
